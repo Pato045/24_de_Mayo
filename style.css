@@ -1,0 +1,28 @@
+.novios{
+  background: url('main.jpg') no-repeat center;
+  background-size: 150%;
+  background-attachment: fixed;
+  height: 100vh;
+  padding-top: 55vh;
+}
+.colibri{
+  background: url('colibri.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: 135%;
+  height: 100%;
+  padding-top: 1.5em;
+}
+.titulo{
+  font-family: 'Dancing Script', cursive;
+  font-size: 25vw;
+}
+.poema{
+  font-family: 'Dancing Script', cursive;
+  font-size: 6vw;
+}
+.corintios{
+  font-family: 'Dancing Script', cursive;
+  font-size: 10vw;
+}
